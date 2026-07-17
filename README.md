@@ -1,23 +1,177 @@
-# Hi 👋, I'm Hardik Srivastava
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="DevOps Banner"/>
+</p>
 
-# 💫 About Me:
-🔭 I’m currently working on DevOps & Cloud Engineering (120-Day Roadmap)<br><br>👯 I’m looking to collaborate on Open Source DevOps, Linux, Docker, Kubernetes & AWS Projects<br><br>🤝 I’m looking for help with AWS, Kubernetes, Terraform, CI/CD, and SRE Best Practices<br><br>🌱 I’m currently learning Linux, Git, GitHub, Docker, Kubernetes, AWS, Terraform, Jenkins, Bash & Python<br><br>💬 Ask me about Linux, Git, Docker Basics, DevOps Learning Journey, and BCA<br><br>⚡ Fun fact: I document everything I learn on GitHub and aim to become a DevOps Engineer.
+<h1 align="center">
+Hi 👋, I'm Hardik Srivastava
+</h1>
 
+<h3 align="center">
+Cloud & DevOps Engineer in Progress
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/redflag07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hardik-srivastava-61ba9138b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hardiksrivastava5011@gmail.com) 
+<p align="center">
+Building production-ready DevOps skills through hands-on labs, automation, infrastructure, and real-world projects.
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hardik-srivastava01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=hardik-srivastava01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hardik-srivastava01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hardik-srivastava01&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=hardik-srivastava01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+I'm a BCA student focused on mastering Cloud and DevOps through consistent practice, automation, and real-world engineering projects.
+
+Instead of only studying theory, I document everything I build and learn on GitHub.
+
+- 🐧 Linux Enthusiast
+- ☁ Cloud & DevOps Learner
+- 🐳 Containerization & Kubernetes
+- ⚙ Infrastructure Automation
+- 📚 Continuous Learning
+- 🚀 Building Every Week
+
+---
+
+# 🛠 Technology Stack
+
+### Operating System
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+### DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+
+---
+
+# 🎯 Current Focus
+
+- Linux System Administration
+- Networking Fundamentals
+- Git & GitHub
+- Bash Scripting
+- Docker
+- Kubernetes
+- AWS
+- Terraform
+- CI/CD Pipelines
+- Infrastructure Automation
+
+---
+
+# 📂 Featured Repositories
+
+### 🚀 DevOps Lab
+
+Daily hands-on DevOps practice, notes, commands, screenshots and labs.
+
+---
+
+### 🐧 Linux
+
+Linux administration, permissions, shell, processes, networking and troubleshooting.
+
+---
+
+### 🐳 Docker
+
+Images, Containers, Dockerfiles, Compose and deployment labs.
+
+---
+
+### ☸ Kubernetes
+
+Pods, Deployments, Services, ConfigMaps, Secrets and production labs.
+
+---
+
+### ☁ AWS
+
+EC2, IAM, VPC, S3, CloudWatch and cloud deployment.
+
+---
+
+### 🏗 Terraform
+
+Infrastructure as Code projects and automation.
+
+---
+
+# 🌱 Currently Learning
+
+- Linux
+- Networking
+- Git
+- Bash
+- Python
+- Docker
+- Kubernetes
+- AWS
+- Terraform
+- Jenkins
+- Prometheus
+- Grafana
+- ArgoCD
+
+---
+
+# 🤝 Connect
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:hardiksrivastava5011@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Engineering Philosophy
+
+> Learn → Build → Automate → Document → Improve → Repeat
+
+---
+
+<p align="center">
+
+### ⭐ Every repository reflects continuous learning, practical implementation, and engineering discipline.
+
+</p>
