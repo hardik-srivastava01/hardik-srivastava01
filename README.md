@@ -1,142 +1,48 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="DevOps Banner"/>
+  <img src="./assets/banner.png" width="100%" alt="Hardik Srivastava Banner"/>
 </p>
 
-<h1 align="center">
-Hi 👋, I'm Hardik Srivastava
-</h1>
+<h1 align="center">Hi 👋, I'm Hardik Srivastava</h1>
 
 <h3 align="center">
 Cloud & DevOps Engineer in Progress
 </h3>
 
 <p align="center">
-Building production-ready DevOps skills through hands-on labs, automation, infrastructure, and real-world projects.
+Building reliable infrastructure through Linux, Cloud, Automation and Open Source.
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<a href="https://www.linkedin.com/in/hardik-srivastava-61ba9138b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hardiksrivastava5011@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-# 🚀 About Me
+## About
 
-I'm a BCA student focused on mastering Cloud and DevOps through consistent practice, automation, and real-world engineering projects.
+I am a BCA student passionate about Cloud Computing, DevOps and Infrastructure Automation.
 
-Instead of only studying theory, I document everything I build and learn on GitHub.
+I believe the best way to learn engineering is by building projects, documenting everything, and continuously improving.
 
-- 🐧 Linux Enthusiast
-- ☁ Cloud & DevOps Learner
-- 🐳 Containerization & Kubernetes
-- ⚙ Infrastructure Automation
-- 📚 Continuous Learning
-- 🚀 Building Every Week
+Currently focused on becoming a production-ready Cloud & DevOps Engineer.
 
 ---
 
-# 🛠 Technology Stack
-
-### Operating System
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
-### DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge)
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
-
----
-
-# 🎯 Current Focus
+## Current Focus
 
 - Linux System Administration
-- Networking Fundamentals
+- Computer Networking
 - Git & GitHub
 - Bash Scripting
-- Docker
-- Kubernetes
-- AWS
-- Terraform
-- CI/CD Pipelines
-- Infrastructure Automation
-
----
-
-# 📂 Featured Repositories
-
-### 🚀 DevOps Lab
-
-Daily hands-on DevOps practice, notes, commands, screenshots and labs.
-
----
-
-### 🐧 Linux
-
-Linux administration, permissions, shell, processes, networking and troubleshooting.
-
----
-
-### 🐳 Docker
-
-Images, Containers, Dockerfiles, Compose and deployment labs.
-
----
-
-### ☸ Kubernetes
-
-Pods, Deployments, Services, ConfigMaps, Secrets and production labs.
-
----
-
-### ☁ AWS
-
-EC2, IAM, VPC, S3, CloudWatch and cloud deployment.
-
----
-
-### 🏗 Terraform
-
-Infrastructure as Code projects and automation.
-
----
-
-# 🌱 Currently Learning
-
-- Linux
-- Networking
-- Git
-- Bash
-- Python
+- Python Automation
 - Docker
 - Kubernetes
 - AWS
@@ -148,30 +54,105 @@ Infrastructure as Code projects and automation.
 
 ---
 
-# 🤝 Connect
+## Tech Stack
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://skillicons.dev/icons?i=linux,git,github,bash,python,docker,kubernetes,aws,terraform,jenkins"/>
 
-<a href="mailto:hardiksrivastava5011@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 
 </p>
 
 ---
 
-# 💡 Engineering Philosophy
+## Engineering Principles
 
-> Learn → Build → Automate → Document → Improve → Repeat
+- Build before consuming more tutorials.
+- Automate repetitive work.
+- Keep documentation simple and useful.
+- Learn by solving real problems.
+- Focus on consistency over intensity.
+
+---
+
+## Featured Repositories
+
+### 🚀 DevOps Lab
+
+Hands-on DevOps learning repository containing notes, labs, commands, troubleshooting and projects.
+
+---
+
+### 🐧 Linux
+
+Linux commands, shell scripting, permissions, networking and administration.
+
+---
+
+### 🐳 Docker
+
+Containerization, Dockerfiles, Compose and deployment.
+
+---
+
+### ☸ Kubernetes
+
+Pods, Deployments, Services, ConfigMaps and production labs.
+
+---
+
+### ☁ AWS
+
+Cloud infrastructure, IAM, EC2, S3 and networking.
+
+---
+
+### 🏗 Terraform
+
+Infrastructure as Code projects and reusable modules.
+
+---
+
+## Currently Learning
+
+```text
+Linux                ████████████████████
+Networking           ██████████████████
+Git                  ████████████████
+Bash                 ████████████
+Python               ███████████
+Docker               ███████
+Kubernetes           █████
+AWS                  ████
+Terraform            ███
+Jenkins              ██
+Prometheus           ██
+Grafana              ██
+ArgoCD               █
+```
+
+---
+
+## Connect
+
+- LinkedIn
+- Email
 
 ---
 
 <p align="center">
 
-### ⭐ Every repository reflects continuous learning, practical implementation, and engineering discipline.
+> "Consistency builds expertise."
+
+⭐ Thanks for visiting my profile.
 
 </p>
